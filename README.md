@@ -17,3 +17,7 @@ Programa simples, onde verifica milhares de dados em 6 Arquivos Excel e dizer qu
 - pip install openpyxl
 - pip install panda
 - python app.py
+
+
+
+É necessário fazer uma conta no Site da [Twilio ](https://www.twilio.com/) para conseguir seu número gerado por eles.
