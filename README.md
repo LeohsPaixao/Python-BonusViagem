@@ -11,6 +11,7 @@ Programa simples, onde verifica milhares de dados em 6 Arquivos Excel e dizer qu
 ## Ferramentas
 
 - Python
+- Twilio
 
 ## Passos
 ```bash
